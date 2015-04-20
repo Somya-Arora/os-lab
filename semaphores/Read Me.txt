@@ -1,0 +1,4 @@
+I have compiled this program using gcc on cygwin
+If you want to run this program in cygwin then you must have cygserver installed and running.
+Otherwise, you will get an error "Bad system call"
+And also take care of the path I have used in ftok()
